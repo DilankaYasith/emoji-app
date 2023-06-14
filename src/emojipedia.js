@@ -26,6 +26,20 @@ const emojipedia = [
       name: "Nerd Face",
       meaning:
         "Huge glasses, awkward smile and buck teeth. Used humorously or ironically for nerds or to express how smart you are. Stereotype of a nerd; a smart but funny-dressed person with social deficits."
+    },
+    {
+      id: 5,
+      emoji: "😉",
+      name: "Winking Face",
+      meaning:
+        "A yellow face with a slight smile or open mouth shown winking, usually its left eye. May signal a joke, flirtation, hidden meaning, or general positivity. Tone varies, including playful, affectionate, suggestive, or ironic."
+    },
+    {
+      id: 6,
+      emoji: "😡",
+      name: "Enraged Face",
+      meaning:
+        "A red face with an angry expression: frowning mouth with eyes and eyebrows scrunched downward. Bears the same expression as 😠 Angry Face on most platforms and may convey more intense degrees of anger, e.g., hate or rage."
     }
   ];
   
